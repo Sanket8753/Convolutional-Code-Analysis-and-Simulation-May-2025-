@@ -1,0 +1,15 @@
+# MATLAB temporary history and autosave files
+*.asv
+*.m~
+*.bak
+*.autosave
+
+# Simulink cache and code generation folders
+slprj/
+sccprj/
+codegen/
+*.slxc
+
+# Compiled MEX binaries and figures cache
+*.mex*
+*.p
