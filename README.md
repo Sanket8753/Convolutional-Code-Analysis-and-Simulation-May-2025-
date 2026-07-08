@@ -1,4 +1,4 @@
-# Convolutional Code Performance Analysis using Viterbi Decoding
+# Convolutional Code Performance Analysis using Viterbi Decoding(Under Prof.Yash Vasavada)
 A MATLAB-based simulation environment that analyzes the performance of Convolutional Codes under varying signal conditions. The project models a complete digital communication system over an Additive White Gaussian Noise (AWGN) channel using Binary Phase Shift Keying (BPSK) modulation.
 
 ## Overview
